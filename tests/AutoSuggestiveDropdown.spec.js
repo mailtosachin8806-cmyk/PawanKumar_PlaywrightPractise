@@ -24,20 +24,5 @@ test('Auto suggestive Dropdown', async({page})=> {
     }
 
     await page.waitForTimeout(6000);
-
-
-
-
-
-
-
-
-
     await page.pause();
-
-
-
-
-
-
 })
